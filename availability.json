@@ -2,14 +2,14 @@
   "Gulf Paradise": {
     "units": [
       { "id": "101", "status": "available" },
-      { "id": "102", "status": "availible",    "free": "" },
+      { "id": "102", "status": "availible",    "tenant": "" },
       { "id": "103", "status": "available" },
       { "id": "201", "status": "availible" },
       { "id": "202", "status": "available" },
-      { "id": "203", "status": "availible",    "free": "" },
+      { "id": "203", "status": "availible",    "tenant": "" },
       { "id": "301", "status": "available" },
       { "id": "302", "status": "available" },
-      { "id": "401", "status": "availible",    "free": "" },
+      { "id": "401", "status": "availible",    "tenant": "" },
       { "id": "402", "status": "available" },
       { "id": "403", "status": "availible" },
       { "id": "501", "status": "available" }
