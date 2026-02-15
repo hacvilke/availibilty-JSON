@@ -2,14 +2,14 @@
   "Gulf Paradise": {
     "units": [
       { "id": "101", "status": "available" },
-      { "id": "102", "status": "availible",    "tenant": "xPlayer1" },
+      { "id": "102", "status": "availible",    "free": "" },
       { "id": "103", "status": "available" },
       { "id": "201", "status": "availible" },
       { "id": "202", "status": "available" },
-      { "id": "203", "status": "taken",    "tenant": "CoolUser" },
+      { "id": "203", "status": "availible",    "free": "" },
       { "id": "301", "status": "available" },
       { "id": "302", "status": "available" },
-      { "id": "401", "status": "availible",    "tenant": "RoFan99" },
+      { "id": "401", "status": "availible",    "free": "" },
       { "id": "402", "status": "available" },
       { "id": "403", "status": "availible" },
       { "id": "501", "status": "available" }
@@ -19,7 +19,7 @@
     "units": [
       { "id": "101", "status": "available" },
       { "id": "102", "status": "available" },
-      { "id": "201", "status": "availible",    "tenant": "BuilderPro" },
+      { "id": "201", "status": "availible",    "tenant": "cayden" },
       { "id": "202", "status": "availible" },
       { "id": "301", "status": "available" },
       { "id": "302", "status": "available" }
@@ -28,7 +28,7 @@
   "Coconut Lakes": {
     "units": [
       { "id": "101", "status": "available" },
-      { "id": "102", "status": "availible",    "tenant": "Newbie_Bob" },
+      { "id": "102", "status": "availible",    "tenant": "free" },
       { "id": "103", "status": "available" },
       { "id": "201", "status": "available" },
       { "id": "202", "status": "available" }
