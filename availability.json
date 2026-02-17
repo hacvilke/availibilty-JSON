@@ -1,37 +1,31 @@
 {
-  "Gulf Paradise": {
-    "units": [
-      { "id": "101", "status": "available" },
-      { "id": "102", "status": "availible",    "tenant": "" },
-      { "id": "103", "status": "available" },
-      { "id": "201", "status": "availible" },
-      { "id": "202", "status": "available" },
-      { "id": "203", "status": "availible",    "tenant": "" },
-      { "id": "301", "status": "available" },
-      { "id": "302", "status": "available" },
-      { "id": "401", "status": "availible",    "tenant": "" },
-      { "id": "402", "status": "available" },
-      { "id": "403", "status": "availible" },
-      { "id": "501", "status": "available" }
-    ]
-  },
-  "Bonita Modern": {
-    "units": [
-      { "id": "101", "status": "available" },
-      { "id": "102", "status": "available" },
-      { "id": "201", "status": "availible",    "tenant": "cayden" },
-      { "id": "202", "status": "availible" },
-      { "id": "301", "status": "available" },
-      { "id": "302", "status": "available" }
-    ]
-  },
-  "Coconut Lakes": {
-    "units": [
-      { "id": "101", "status": "available" },
-      { "id": "102", "status": "availible",    "tenant": "free" },
-      { "id": "103", "status": "available" },
-      { "id": "201", "status": "available" },
-      { "id": "202", "status": "available" }
-    ]
-  }
+  "201": "available",
+  "202": "available",
+  "203": "available",
+  "204": "available",
+
+  "301": "available",
+  "302": "available",
+  "303": "available",
+  "304": "available",
+
+  "401": "available",
+  "402": "available",
+  "403": "available",
+  "404": "available",
+
+  "501": "available",
+  "502": "available",
+  "503": "available",
+  "504": "available",
+
+  "601": "available",
+  "602": "available",
+  "603": "available",
+  "604": "available",
+
+  "701": "available",
+  "702": "available",
+  "703": "available",
+  "704": "available"
 }
