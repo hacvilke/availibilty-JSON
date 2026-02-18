@@ -4,7 +4,7 @@
   "203": "available",
   "204": "available",
 
-  "301": "reserved",
+  "301": "availible",
   "302": "available",
   "303": "available",
   "304": "available",
@@ -26,6 +26,6 @@
 
   "701": "available",
   "702": "available",
-  "703": "reserved",
-  "704": "available"
+  "703": "availible",
+  "704": "available",
 }
